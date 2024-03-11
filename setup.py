@@ -26,3 +26,4 @@ with open("README.md", "r", encoding='utf-8') as f:
         package_dir={"": "src"},
         package=setuptools.find_packages(where="src")             
     )
+    
